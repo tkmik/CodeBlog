@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousType", "AnonymousT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaAnonymousMethod", "LambdaAnonymousMethod\LambdaAnonymousMethod.csproj", "{040A7AEF-6F3D-425B-A7D3-9F256CD9F68B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeReflection", "Attribute\AttributeReflection.csproj", "{94F76116-F476-4588-AC39-BD87CC845C79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributeReflection", "Attribute\AttributeReflection.csproj", "{94F76116-F476-4588-AC39-BD87CC845C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "Serialization\Serialization.csproj", "{FD1DE940-298A-4CEA-B907-4E386E11F492}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +99,10 @@ Global
 		{94F76116-F476-4588-AC39-BD87CC845C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94F76116-F476-4588-AC39-BD87CC845C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94F76116-F476-4588-AC39-BD87CC845C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1DE940-298A-4CEA-B907-4E386E11F492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1DE940-298A-4CEA-B907-4E386E11F492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1DE940-298A-4CEA-B907-4E386E11F492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1DE940-298A-4CEA-B907-4E386E11F492}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
