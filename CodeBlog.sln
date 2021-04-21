@@ -37,7 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AttributeReflection", "Attr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialization", "Serialization\Serialization.csproj", "{FD1DE940-298A-4CEA-B907-4E386E11F492}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollector", "GarbageCollector\GarbageCollector.csproj", "{AA0CCA77-4177-4ADA-92F9-D83EF7DE8DF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GarbageCollector", "GarbageCollector\GarbageCollector.csproj", "{AA0CCA77-4177-4ADA-92F9-D83EF7DE8DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnObject", "LearnObject\LearnObject.csproj", "{17200CD1-6D78-49AA-B9B6-60319AD18EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pointer", "Pointer\Pointer.csproj", "{BD096F58-0DE2-44C4-AA79-107F7AAA130F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -109,6 +113,14 @@ Global
 		{AA0CCA77-4177-4ADA-92F9-D83EF7DE8DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA0CCA77-4177-4ADA-92F9-D83EF7DE8DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA0CCA77-4177-4ADA-92F9-D83EF7DE8DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17200CD1-6D78-49AA-B9B6-60319AD18EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17200CD1-6D78-49AA-B9B6-60319AD18EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17200CD1-6D78-49AA-B9B6-60319AD18EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17200CD1-6D78-49AA-B9B6-60319AD18EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD096F58-0DE2-44C4-AA79-107F7AAA130F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD096F58-0DE2-44C4-AA79-107F7AAA130F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD096F58-0DE2-44C4-AA79-107F7AAA130F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD096F58-0DE2-44C4-AA79-107F7AAA130F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
